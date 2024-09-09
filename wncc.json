@@ -1,6 +1,16 @@
 {
-  [
-  "name" : "netflix",
-  "url" : "xxxx"
+  "apk": [
+    {
+      "apkName": "xxx",
+      "packageName": "xxx",
+      "apkVersion": "xxx",
+      "url": "xxx"
+    },
+    {
+      "apkName": "xxx",
+      "packageName": "xxx",
+      "apkVersion": "xxx",
+      "url": "xxx"
+    }
   ]
 }
