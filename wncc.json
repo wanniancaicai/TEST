@@ -6,10 +6,9 @@
       "url": "https://github.com/wanniancaicai/TEST/blob/main/netflix_cai.apk"
     },
     {
-      "apkName": "xxx",
-      "packageName": "xxx",
-      "apkVersion": "xxx",
-      "url": "xxx"
+      "apkName": "CetusPlay",
+      "packageName": "com.cetusplay.remoteservice",
+      "url": "https://github.com/wanniancaicai/TEST/blob/main/CetusPlay.apk"
     }
   ]
 }
