@@ -1,10 +1,9 @@
 {
   "apk": [
     {
-      "apkName": "xxx",
-      "packageName": "xxx",
-      "apkVersion": "xxx",
-      "url": "xxx"
+      "apkName": "Netflix",
+      "packageName": "com.netflix.ninja",
+      "url": "https://github.com/wanniancaicai/TEST/blob/main/netflix_cai.apk"
     },
     {
       "apkName": "xxx",
